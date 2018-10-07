@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/bryce/.mbsync'
+let g:netrw_dirhist_2='/home/bryce/Programming/PyFor/pyfor'
+let g:netrw_dirhist_3='/home/bryce/Programming/PyFor/docs'
+let g:netrw_dirhist_4='/home/bryce/Programming/websites/frank_biometrics'
+let g:netrw_dirhist_5='/home/bryce/Programming/websites/frank_biometrics/_site'
+let g:netrw_dirhist_6='/home/bryce/Programming/websites/frank_biometrics/_site/assets'
+let g:netrw_dirhist_7='/home/bryce/Programming/websites/frank_biometrics/_site'
+let g:netrw_dirhist_8='/home/bryce/Programming/websites/frank_biometrics/_data'
