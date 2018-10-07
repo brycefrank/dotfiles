@@ -1,1 +1,1 @@
-nnoremap <leader>r :action RunClass<CR>
+nnoremap <leader>r :action Run<CR>
